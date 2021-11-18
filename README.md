@@ -1,4 +1,4 @@
-## 👋 Hi, I'm James Whiteley
+## Hello! 👋
 
 <div align="center">
   <a href="https://github.com/james-work-account">
