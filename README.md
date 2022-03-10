@@ -21,12 +21,6 @@
   </a>
 </div>
 
-##
-  
-<div align="center">
-  <a href="https://www.linkedin.com/in/james-whiteley-03041995/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="James Whiteley's LinkedIn Profile"></a>
-</div>
-
 <!--
 **james-work-account/james-work-account** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
