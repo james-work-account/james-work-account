@@ -1,5 +1,9 @@
 ## Hello! 👋
 
+Pleasure to meet you.
+
+Whilst most of my day-to-day work is done in private repositories, here are some fun stats:
+
 <div align="center">
   <a href="https://github.com/james-work-account">
     <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=james-work-account&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
